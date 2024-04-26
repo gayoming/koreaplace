@@ -704,6 +704,14 @@ div .fix-right-menu i {
     font-size: 23px;
   }
 
+  .bg a {
+    position: absolute;
+    bottom: 2%;
+    right: 2%;
+    color: white;
+    opacity: 0.8;
+    font-size: 3vw;
+  }
   /*tab menu*/
   .container {
     margin-top: 30px;
